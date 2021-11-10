@@ -1,5 +1,5 @@
 import { Task } from "./Task";
-export const TASK: Task[ ] = [
+export const TASKS: Task[ ] = [
   {
     id: 1,
     text: 'Doctors Appoitment',
@@ -13,7 +13,7 @@ export const TASK: Task[ ] = [
     reminder: true,
   },
   {
-    id: 3, 
+    id: 3,
     text: 'Food Shopping',
     day: 'May 5th at 2:30pm',
     reminder: false,
