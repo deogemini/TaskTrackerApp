@@ -1,5 +1,5 @@
 {
-  "tasks":[
+  "tasks": [
     {
       "id": 1,
       "text": "Doctors Appoitment",
@@ -10,11 +10,11 @@
       "id": 2,
       "text": "Meeting at School",
       "day": "May 5th at 2:30pm",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 3,
-      "text": "Food Shopping",
+      "text": "Food Preparation",
       "day": "May 5th at 2:30pm",
       "reminder": false
     }
